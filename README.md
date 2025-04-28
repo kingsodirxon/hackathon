@@ -1,4 +1,4 @@
-# OnChainMetadataTutorial
+# NFT_minter_For_Hackathon
 
 ## Project structure
 
